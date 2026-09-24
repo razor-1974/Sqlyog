@@ -213,4 +213,4 @@ SQLyog is provided as a complete free version with all features and updates incl
 Enhance your MySQL management experience today. **Download SQLyog for free and take control of your databases!**
 
 ---
-**Last updated:** 2026-09-24 04:29:33 UTC
+**Last updated:** 2026-09-24 09:52:00 UTC
